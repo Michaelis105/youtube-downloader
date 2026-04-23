@@ -11,7 +11,9 @@ Simple video and audio downloader for YouTube sources.
 
 Tested using Python 3.12.4
 
-`pip install pytubefix moviepy`
+```
+pip install pytubefix moviepy
+```
 
 # Usage
 
